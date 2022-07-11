@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3{
+    padding: 15px;
+}
+
+#datos__1{
+    background-color: red;
+    color: #FFF;
+}
+
+.datos__type{
+    background-color: greenyellow; 
+}
+
+.datos__type{
+    background-color: aquamarine ;
+}
+
+#btn__presionar{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+}

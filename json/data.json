@@ -1,0 +1,14 @@
+{
+    "nombre": "Alexis",
+    "apellido": "diaz",
+    "dni": 34675897,
+    "direccion": "denis 4000",
+    "estado de trabajo": true,
+    "array": [1,2,3],
+    "objeto": [
+        {"nombre": "jose"},
+        {"apellido": "diaz 2"}
+    ]
+
+}
+
